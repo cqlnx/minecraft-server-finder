@@ -1,4 +1,4 @@
-##New version out
+## New version out
 
 New version that uses my API instead: https://github.com/cqlnx/MineScan-Discord-Bot
 Has more commands like whereis and who
